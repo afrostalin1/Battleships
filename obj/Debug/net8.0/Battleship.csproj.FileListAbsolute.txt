@@ -1,0 +1,14 @@
+C:\Users\Owner\VS Code\C#\Battleship\Battleship\bin\Debug\net8.0\Battleship.exe
+C:\Users\Owner\VS Code\C#\Battleship\Battleship\bin\Debug\net8.0\Battleship.deps.json
+C:\Users\Owner\VS Code\C#\Battleship\Battleship\bin\Debug\net8.0\Battleship.runtimeconfig.json
+C:\Users\Owner\VS Code\C#\Battleship\Battleship\bin\Debug\net8.0\Battleship.dll
+C:\Users\Owner\VS Code\C#\Battleship\Battleship\bin\Debug\net8.0\Battleship.pdb
+C:\Users\Owner\VS Code\C#\Battleship\Battleship\obj\Debug\net8.0\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\VS Code\C#\Battleship\Battleship\obj\Debug\net8.0\Battleship.AssemblyInfoInputs.cache
+C:\Users\Owner\VS Code\C#\Battleship\Battleship\obj\Debug\net8.0\Battleship.AssemblyInfo.cs
+C:\Users\Owner\VS Code\C#\Battleship\Battleship\obj\Debug\net8.0\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\Owner\VS Code\C#\Battleship\Battleship\obj\Debug\net8.0\Battleship.dll
+C:\Users\Owner\VS Code\C#\Battleship\Battleship\obj\Debug\net8.0\refint\Battleship.dll
+C:\Users\Owner\VS Code\C#\Battleship\Battleship\obj\Debug\net8.0\Battleship.pdb
+C:\Users\Owner\VS Code\C#\Battleship\Battleship\obj\Debug\net8.0\Battleship.genruntimeconfig.cache
+C:\Users\Owner\VS Code\C#\Battleship\Battleship\obj\Debug\net8.0\ref\Battleship.dll
